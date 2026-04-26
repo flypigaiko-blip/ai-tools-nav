@@ -1,0 +1,20 @@
+export const siteConfig = {
+  name: 'AITools.Directory',
+  title: 'AITools.Directory — Discover the Best AI Tools',
+  description: 'The curated directory of the best AI tools. Find, compare, and choose the perfect AI solutions for writing, coding, design, video, and more.',
+  url: 'https://aitools.directory',
+  ogImage: '/og-image.png',
+  twitter: '@aitoolsdirectory',
+  keywords: [
+    'AI tools',
+    'artificial intelligence',
+    'AI directory',
+    'best AI tools',
+    'AI software',
+    'AI applications',
+    'ChatGPT alternatives',
+    'AI for business',
+    'AI productivity',
+    'machine learning tools',
+  ],
+};

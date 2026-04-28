@@ -118,6 +118,7 @@ export default function RootLayout({
               <a href="/category/image-generation/" className="hover:text-apple-black transition-colors">Image</a>
               <a href="/category/coding/" className="hover:text-apple-black transition-colors">Coding</a>
               <a href="/category/writing/" className="hover:text-apple-black transition-colors">Writing</a>
+              <a href="/blog/" className="hover:text-apple-black font-medium transition-colors">Blog</a>
               <a href="/category/" className="hover:text-apple-black transition-colors">All Categories</a>
             </div>
             <a
@@ -161,7 +162,7 @@ export default function RootLayout({
                 <ul className="space-y-2 text-sm text-apple-gray-500">
                   <li><a href="/category/research/" className="hover:text-apple-black transition-colors">Research Tools</a></li>
                   <li><a href="/category/business/" className="hover:text-apple-black transition-colors">Business & Finance</a></li>
-                  <li><a href="#" className="hover:text-apple-black transition-colors">Blog</a></li>
+                  <li><a href="/blog/" className="hover:text-apple-black transition-colors">Blog</a></li>
                   <li><a href="#" className="hover:text-apple-black transition-colors">Newsletter</a></li>
                 </ul>
               </div>

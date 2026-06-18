@@ -586,6 +586,21 @@ export const tools: AITool[] = [
     trending: false,
     dateAdded: '2024-03-18',
   },
+  {
+    id: '31',
+    name: 'Roblox GUI Maker',
+    slug: 'roblox-gui-maker',
+    description: 'Free AI-assisted Roblox Studio GUI planner for ScreenGui layouts, HUD and menu structure, and Lua UI starter code.',
+    shortDescription: 'Roblox Studio GUI planner and Lua UI starter code',
+    url: 'https://robloxguimaker.dev/',
+    logo: '🎮',
+    category: 'coding',
+    tags: ['roblox', 'gui', 'lua', 'game-ui'],
+    pricing: 'Free',
+    featured: false,
+    trending: false,
+    dateAdded: '2026-06-18',
+  },
 ];
 
 // Update category counts
